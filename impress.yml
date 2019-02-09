@@ -1,0 +1,3 @@
+image_name: "run-impress:latest"
+download_filename: "libreoffice-impress"
+cmd_line: "/usr/bin/libreoffice"

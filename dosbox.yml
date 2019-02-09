@@ -1,0 +1,3 @@
+image_name: "run-dosbox:latest"
+download_filename: "dosbox"
+cmd_line: "/usr/bin/dosbox"

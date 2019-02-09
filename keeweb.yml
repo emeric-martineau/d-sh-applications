@@ -1,0 +1,13 @@
+image_name: "run-keeweb:v1.7.4"
+url: "https://github.com/keeweb/keeweb/releases/download/v1.7.4/KeeWeb-1.7.4.linux.x64.deb"
+download_filename: "keeweb.deb"
+cmd_line: "/usr/bin/KeeWeb"
+dependencies:
+  - libx11-xcb1
+  - libxtst6
+  - libxss1
+  - libnss3
+  - libasound2
+  - libcanberra-gtk-module
+  - libappindicator1
+  - libgconf2-4

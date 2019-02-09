@@ -1,0 +1,4 @@
+image_name: "run-firefox:latest"
+url: "https://download.mozilla.org/?product=firefox-latest-ssl&os=linux64&lang=fr"
+download_filename: "firefox.tar.bz2"
+cmd_line: "/opt/firefox/firefox"
