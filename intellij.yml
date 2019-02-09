@@ -1,6 +1,6 @@
 image_name: "run-intellij:2018.3.4"
 url: "https://download.jetbrains.com/idea/ideaIC-2018.3.4-no-jdk.tar.gz"
 download_filename: "intellij.tar.gz"
-cmd_line: "/opt/idea-IC-181.5540.7/bin/idea.sh"
+cmd_line: "/opt/idea-IC-183.5429.30/bin/idea.sh"
 dependencies:
   - openjdk-8-jdk
